@@ -1,0 +1,6 @@
+{
+  "name": "Sacré Réda !",
+  "description": "Jeu comique d'arcade où vous devez stopper les gaffes de Réda le serveur maladroit à grands coups de bâton et d'assiettes en porcelaine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
